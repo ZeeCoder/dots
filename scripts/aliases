@@ -1,0 +1,3 @@
+#!/bin/bash
+alias sc="php app/console"
+alias scc="php bin/console"
